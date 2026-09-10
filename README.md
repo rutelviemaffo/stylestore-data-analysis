@@ -17,7 +17,7 @@ Ogni query è commentata con il suo scopo e il risultato atteso.
 
 Il progetto — con il metodo di validazione, gli insight di business e la dashboard interattiva — è raccontato per intero qui: 
 
-[Visita il case study completo](https://tinyurl.com/stylestore-portfolio)
+[Visita il case study completo](https://tinyurl.com/ruth-data-analytics)
 
 ## Strumenti usati
 
